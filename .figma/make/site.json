@@ -1,0 +1,10 @@
+{
+  "description": "Campus Event Hub is a dynamic platform for students to explore, register, and manage events for the VIBRANCE 2026 college fest, enhancing engagement and participation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
